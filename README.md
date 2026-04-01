@@ -1,5 +1,5 @@
 # 💫 About Me:
-•Building scalable backend systems and AI-powered web apps (MERN + AI APIs), including a SaaS text-to-image platform and real-time chat applications.<br>Full-stack or backend-heavy projects involving REST APIs, real-time systems, or AI integrations.<br>Improving system design, scaling backend architecture, and deploying production-level applications.<br>Advanced backend development, system design, and integrating AI/LLMs into real-world applications.<br>Node.js, Express, REST APIs, JWT authentication, MongoDB, React, and building full-stack applications.<br>I enjoy building real-world projects more than just learning theory — I learn by shipping.
+• Building scalable backend systems and AI-powered web apps (MERN + AI APIs), including a SaaS text-to-image platform and real-time chat applications.<br>• Full-stack or backend-heavy projects involving REST APIs, real-time systems, or AI integrations.<br>• Improving system design, scaling backend architecture, and deploying production-level applications.<br>• Advanced backend development, system design, and integrating AI/LLMs into real-world applications.<br>• Node.js, Express, REST APIs, JWT authentication, MongoDB, React, and building full-stack applications.<br>• I enjoy building real-world projects more than just learning theory - I learn by shipping.
 
 
 ## 🌐 Socials:
